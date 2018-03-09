@@ -1,4 +1,1 @@
-echo
-
-yoooooo
-Everything is broken now
+empty file now
